@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vanvan116
 - 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. My email: anhnv.fu@gmail.com 
 
 <!---
